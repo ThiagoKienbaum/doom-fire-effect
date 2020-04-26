@@ -1,6 +1,10 @@
 table {
     border-collapse: collapse;
-    border: 1px solid #000;    
+    border: 1px solid #000;     
+}
+
+#app-content {
+    margin-top: 100px;   
 }
 
 td {
@@ -21,4 +25,10 @@ td {
     top: 2px;
     right: 2px;
     color: #999;
+}
+
+td.pixel {
+    width: 4px;
+    height: 4px;
+    border: 0;
 }
