@@ -18,6 +18,7 @@
 
 ## Technologies used on this project
 - JavaScript
+- Bootstrap 4
 - Html
 - CSS
 
