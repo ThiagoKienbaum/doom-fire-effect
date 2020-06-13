@@ -1,6 +1,6 @@
 # Doom Fire Effect
 
-https://thiagokienbaum.github.io/doom-fire-effect/
+> See this project runnig [here](https://thiagokienbaum.github.io/doom-fire-effect/).
 
 ![](doom-fire-effect.gif)
 
